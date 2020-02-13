@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443939428176",
+    "firebase_url": "https://traceability-267110.firebaseio.com",
+    "project_id": "traceability-267110",
+    "storage_bucket": "traceability-267110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443939428176:android:996f80af388550b718fe55",
+        "android_client_info": {
+          "package_name": "com.traceability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443939428176-7o7f4cl4s6jnufrn0adg1u3eh9dapmun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxkJNEjaf3C-EuM0CbTevOfo9KQnlRDHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443939428176-7o7f4cl4s6jnufrn0adg1u3eh9dapmun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
